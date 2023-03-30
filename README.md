@@ -1,2 +1,2 @@
 # Python_Avan-ado
-pagina web, tratamento dos dados 
+pagina web e tratamento dos dados 
